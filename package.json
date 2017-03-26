@@ -9,7 +9,9 @@
     "react-dom": "^15.4.2",
     "react-svg-loader": "^1.1.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "babel-plugin-inline-react-svg": "^0.4.0"
+  },
   "scripts": {
     "dev": "next",
     "build": "next build",
